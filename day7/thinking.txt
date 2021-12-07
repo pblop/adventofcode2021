@@ -20,7 +20,7 @@ f2(5) = 21
 f2(6) = 28
 
 x is the distance from the crab's current position to the required position
-f2(x) = ax^2 + bx + c = 6
+f2(x) = ax^2 + bx + c
 f2(2) = 4a + 2b + c = 6
 f2(3) = 9a + 3b + c = 10
 f2(4) = 16a + 4b + c = 15
