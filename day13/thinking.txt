@@ -1,0 +1,13 @@
+when we're folding along y
+x stays the same
+
+height is 15 (max_y = 14), width is 11 (max_x = 10)
+
+folding along y = 7
+when y < fold_pos -> y stays the same
+when y > fold_pos ->
+14 -> 0
+13 -> 1
+13 - 7 = 6 => 7 - 6 = 1
+7 - (13 - 7)
+y - (doty - y)
